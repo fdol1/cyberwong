@@ -1,0 +1,7 @@
+.gradle/4.7/
+.gradle/5.2.1/
+.gradle/
+.idea/
+target/
+out/
+build/
